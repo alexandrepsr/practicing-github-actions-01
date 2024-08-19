@@ -20,6 +20,10 @@ h1 {
   color: #e8d4b2;
 }
 
+p {
+  color: yellow;
+}
+
 header {
   margin-top: 2rem;
 }
